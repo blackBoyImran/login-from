@@ -1,3 +1,31 @@
 h2{
     color: red;
 }
+
+.login-page{
+    width : 300px;
+    background-color: aqua;
+    padding: 1rem;
+    margin:2rem;
+}
+.login-page .sub-container{
+    background-color: rgb(190, 190, 190);
+    padding: 0.7rem;
+    overflow: hidden;
+}
+
+
+.login-page .sub-container input{
+    border: none;
+    background-color: white;
+    border-radius: .5rem;
+    width: 89%;
+    padding: .7rem 1rem;
+    margin: .5rem 0rem;
+}
+
+
+
+
+
+
